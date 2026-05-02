@@ -1,0 +1,25 @@
+Plugins/DeepgramPlugin/DeepgramPlugin.swift
+  01c61afdc05fd192 365
+TypeWhisper/ViewModels/ProfilesViewModel.swift
+  01c61afdc05fd192 26-29
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.3.4",
+  "base_commit_sha": "a7e6e424428f455002972e49db06cf00dd5ed863",
+  "prompts": {
+    "01c61afdc05fd192": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "e4c4dc2b-d368-422c-b819-c56a9dd5843c",
+        "model": "claude-opus-4-7"
+      },
+      "human_author": "Franklin Tranié",
+      "messages": [],
+      "total_additions": 5,
+      "total_deletions": 0,
+      "accepted_lines": 5,
+      "overriden_lines": 0
+    }
+  }
+}
